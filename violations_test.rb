@@ -13,4 +13,8 @@ class ViolationsTest < MiniTest::Test
   end
 
 
+  def test_count_of_violations
+
+  end
+
 end
